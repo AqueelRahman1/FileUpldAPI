@@ -1,0 +1,14 @@
+C:\Projects\CoreAPI\FileUploadAPI\FileUploadAPI\bin\Debug\netcoreapp2.1\FileUploadAPI.deps.json
+C:\Projects\CoreAPI\FileUploadAPI\FileUploadAPI\bin\Debug\netcoreapp2.1\FileUploadAPI.runtimeconfig.json
+C:\Projects\CoreAPI\FileUploadAPI\FileUploadAPI\bin\Debug\netcoreapp2.1\FileUploadAPI.runtimeconfig.dev.json
+C:\Projects\CoreAPI\FileUploadAPI\FileUploadAPI\bin\Debug\netcoreapp2.1\FileUploadAPI.dll
+C:\Projects\CoreAPI\FileUploadAPI\FileUploadAPI\bin\Debug\netcoreapp2.1\FileUploadAPI.pdb
+C:\Projects\CoreAPI\FileUploadAPI\FileUploadAPI\obj\Debug\netcoreapp2.1\FileUploadAPI.csprojAssemblyReference.cache
+C:\Projects\CoreAPI\FileUploadAPI\FileUploadAPI\obj\Debug\netcoreapp2.1\FileUploadAPI.csproj.CoreCompileInputs.cache
+C:\Projects\CoreAPI\FileUploadAPI\FileUploadAPI\obj\Debug\netcoreapp2.1\FileUploadAPI.RazorAssemblyInfo.cache
+C:\Projects\CoreAPI\FileUploadAPI\FileUploadAPI\obj\Debug\netcoreapp2.1\FileUploadAPI.RazorAssemblyInfo.cs
+C:\Projects\CoreAPI\FileUploadAPI\FileUploadAPI\obj\Debug\netcoreapp2.1\FileUploadAPI.AssemblyInfoInputs.cache
+C:\Projects\CoreAPI\FileUploadAPI\FileUploadAPI\obj\Debug\netcoreapp2.1\FileUploadAPI.AssemblyInfo.cs
+C:\Projects\CoreAPI\FileUploadAPI\FileUploadAPI\obj\Debug\netcoreapp2.1\FileUploadAPI.RazorTargetAssemblyInfo.cache
+C:\Projects\CoreAPI\FileUploadAPI\FileUploadAPI\obj\Debug\netcoreapp2.1\FileUploadAPI.dll
+C:\Projects\CoreAPI\FileUploadAPI\FileUploadAPI\obj\Debug\netcoreapp2.1\FileUploadAPI.pdb
